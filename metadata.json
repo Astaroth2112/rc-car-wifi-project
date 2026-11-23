@@ -1,0 +1,6 @@
+{
+  "name": "AeroVolt RC — RC Car Berbasis WiFi",
+  "description": "Website presentasi produk tugas kelompok RC Car pintar berbasis WiFi dengan mikrokontroler ESP32, kontrol latensi rendah via browser, dan sasis 4WD tangguh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
